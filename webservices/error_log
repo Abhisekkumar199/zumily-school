@@ -1,0 +1,2 @@
+[[16-Jul-2021 17:58:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/zumilool/public_html/webservices/student_fee_details.php on line 10
+[16-Jul-2021 17:58:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/zumilool/public_html/webservices/student_fee_details.php on line 11

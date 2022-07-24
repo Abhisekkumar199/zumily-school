@@ -1,0 +1,5 @@
+
+
+$('input').geocomplete({
+	map: '#canvas'
+});
