@@ -7,7 +7,7 @@ class Classregister extends CI_Controller {
         parent::__construct();   
 		$this->load->database();           
     }
-	  
+	  // hellooooooo
 	// class register list view 
 	public function classregisterList()
 	{ 
